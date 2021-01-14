@@ -1,0 +1,22 @@
+{
+	"things": [
+		{
+			"name": "cesium-137",
+			"age": "8 quintillion years",
+			"width": "about the same as 55 hydrogen atoms",
+			"purpose": "be eaten"
+		},
+		{
+			"name": "rick and morty",
+			"age": "about 9 years",
+			"width" : "4 seasons",
+			"purpose": "existential dread"
+		},
+		{
+			"name": "potato",
+			"age": "14 days",
+			"width" : "24 inches",
+			"purpose": "human extinction"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+<mvc:View controllerName="com.ducky.itemlist2.controller.View2" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page2" title="{i18n>title}">
+					<content type="Navigation">
+						<Button text="Go back" press="goBack"></Button>
+						<ObjectHeader
+							intro="{invoice>name}"
+							title="purpose: {invoice>purpose}, width: {invoice>width}, age: {invoice>age}"/>
+					</content>
+				</Page>
+				
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
